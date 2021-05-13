@@ -3,7 +3,7 @@ name: Request to join
 about: Submit a request to be added to the Novartis GitHub organization.
 title: ''
 labels: request to join
-assignees: robindo3
+assignees: kliatni1
 
 ---
 
