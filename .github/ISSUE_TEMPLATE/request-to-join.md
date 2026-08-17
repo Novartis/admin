@@ -17,6 +17,3 @@ DEVELOPMENT: ORLA DOYLE
 - **Why are you joining the Novartis Open Source organization?**
 - **Do you need access to any specific repos?**
   <!-- PLEASE NOTE that you must reach out separately to repo administrators for any repo you need access to. -->
-- **Are you a Novartis employee?**
-<!-- Fill out the following if applicable -->
-- **Novartis 521 ID:**
