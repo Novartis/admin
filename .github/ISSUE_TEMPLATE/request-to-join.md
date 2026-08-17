@@ -8,9 +8,10 @@ assignees: kliatni1
 ---
 
 <!--
-This template collects information for Novartis associates and external collaborators who want to contribute to Novartis Open Source projects.
+NOTE: THIS TEMPLATE IS FOR RARE, ACCESS REQUESTS FROM DEPARTED NOVARTIS STAFF OR 3RD PARTIES. CURRENT INTERNAL EMPLOYEES OR EXTERNAL CONTRACTORS SHOULD REACH OUT TO THE ASSOCIATED CONTACT FOR THEIR DIVISION ON MS TEAMS.
 
-Please supply the following information to help get you started.
+RESEARCH: NICK KLIATSKO
+DEVELOPMENT: ORLA DOYLE
 -->
 
 - **Why are you joining the Novartis Open Source organization?**
